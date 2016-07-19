@@ -1,8 +1,3 @@
-% Robotics: Estimation and Learning 
-% WEEK 4
-% 
-% This script is to help run your algorithm and visualize the result from it.
-
 %% Load data
 clear all;
 close all;
